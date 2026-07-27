@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5f9b309e47164310bbccfe02d16d43a0" label="Project" max_length="40" name="x_2182741_work_m_0_project" type="collection">
+        <element label="Owner" max_length="32" name="owner" reference="sys_user" type="reference"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="Planning" sequence="0" value="planning"/>
+                <element inactive_on_update="false" label="Active" sequence="1" value="active"/>
+                <element inactive_on_update="false" label="On Hold" sequence="2" value="on_hold"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="4000" name="description" type="string_full_utf8"/>
+        <index name="index">
+            <element name="owner"/>
+        </index>
+    </element>
+</database>
