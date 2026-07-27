@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8423095e47564310bbccfe02d16d43d9" extends="task" label="Task" max_length="40" name="x_2182741_work_m_0_task" type="collection">
+        <element label="Project" max_length="32" name="project" reference="x_2182741_work_m_0_project" type="reference"/>
+    </element>
+</database>
