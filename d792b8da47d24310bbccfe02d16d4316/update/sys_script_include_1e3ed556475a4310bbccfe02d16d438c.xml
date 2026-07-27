@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_2182741_work_m_0.TeamAccessUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>TeamAccessUtils</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var TeamAccessUtils = Class.create();
+TeamAccessUtils.prototype = {
+    initialize: function() {},
+
+    isTeamLead: function(teamSysId) {
+        var gr = new GlideRecord('x_2182741_work_m_0_team_member');
+        gr.addQuery('team', teamSysId);
+        gr.addQuery('user', gs.getUserID());
+        gr.addQuery('role', 'lead');
+        gr.query();
+        return gr.hasNext();
+    },
+
+    type: 'TeamAccessUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-27 16:13:10</sys_created_on>
+        <sys_id>1e3ed556475a4310bbccfe02d16d438c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TeamAccessUtils</sys_name>
+        <sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope>
+        <sys_update_name>sys_script_include_1e3ed556475a4310bbccfe02d16d438c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-27 16:13:10</sys_updated_on>
+    </sys_script_include>
+</record_update>
