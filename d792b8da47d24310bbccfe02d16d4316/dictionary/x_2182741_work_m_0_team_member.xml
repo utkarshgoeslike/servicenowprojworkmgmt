@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8b878d9647964310bbccfe02d16d43b3" label="Team Member" max_length="40" name="x_2182741_work_m_0_team_member" type="collection">
+        <element label="Role" max_length="40" name="role" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Member" sequence="1" value="member"/>
+                <element inactive_on_update="false" label="Lead" sequence="0" value="lead"/>
+            </choice>
+        </element>
+        <element label="Team" max_length="32" name="team" reference="x_2182741_work_m_0_team" type="reference"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="team"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
