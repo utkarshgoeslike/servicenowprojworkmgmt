@@ -4,13 +4,27 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-07-28 08:52:26</sys_created_on>
-            <sys_id>ab43452a4796c310bbccfe02d16d439a</sys_id>
+            <sys_created_on>2026-07-28 09:42:56</sys_created_on>
+            <sys_id>5fdec9a2471ac310bbccfe02d16d4333</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2182741_work_m_0_team" sys_domain="global" view="033389e61296c31002b301fe5ac3242f">2743c12a4796c310bbccfe02d16d432a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-07-28 08:52:26</sys_updated_on>
+            <sys_updated_on>2026-07-28 09:42:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-28 09:42:56</sys_created_on>
+            <sys_id>d7dec9a2471ac310bbccfe02d16d4373</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2182741_work_m_0_team" sys_domain="global" view="033389e61296c31002b301fe5ac3242f">2743c12a4796c310bbccfe02d16d432a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-28 09:42:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

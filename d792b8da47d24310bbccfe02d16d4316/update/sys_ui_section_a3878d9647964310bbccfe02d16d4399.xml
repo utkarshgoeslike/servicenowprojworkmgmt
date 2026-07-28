@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="a3878d9647964310bbccfe02d16d4399" sys_domain="global" table="x_2182741_work_m_0_team_member" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>team</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-28 09:44:58</sys_created_on>
+            <sys_id>455f89e2471ac310bbccfe02d16d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2182741_work_m_0_team_member" sys_domain="global" view="Default view">a3878d9647964310bbccfe02d16d4399</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-28 09:44:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-28 09:44:58</sys_created_on>
+            <sys_id>c15f89e2471ac310bbccfe02d16d43a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2182741_work_m_0_team_member" sys_domain="global" view="Default view">a3878d9647964310bbccfe02d16d4399</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-28 09:44:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>role</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-28 09:44:58</sys_created_on>
+            <sys_id>415f89e2471ac310bbccfe02d16d43aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2182741_work_m_0_team_member" sys_domain="global" view="Default view">a3878d9647964310bbccfe02d16d4399</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-28 09:44:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
