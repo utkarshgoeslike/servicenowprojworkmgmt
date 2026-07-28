@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <exclude_attachments_in_now_assist_genius_results>false</exclude_attachments_in_now_assist_genius_results>
+        <exclude_in_now_assist_genius_results>false</exclude_in_now_assist_genius_results>
+        <exclude_in_regular_search>false</exclude_in_regular_search>
+        <profile display_value="work-management Search Profile">cf3389e6a596c3100a44301c8630a839</profile>
+        <search_source display_value="Team Member">8243812a4796c310bbccfe02d16d430f</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-28 08:52:20</sys_created_on>
+        <sys_id>8243812a4796c310bbccfe02d16d4313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>work-management Search Profile.Team Member</sys_name>
+        <sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_8243812a4796c310bbccfe02d16d4313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-28 08:52:20</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

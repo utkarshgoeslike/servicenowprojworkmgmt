@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="75c6815647964310bbccfe02d16d4324" label="Team" max_length="40" name="x_2182741_work_m_0_team" type="collection">
+    <element db_object_id="75c6815647964310bbccfe02d16d4324" label="Team" max_length="40" name="x_2182741_work_m_0_team" text_index="true" type="collection">
         <element label="Project" max_length="32" name="project" reference="x_2182741_work_m_0_project" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <index name="index">

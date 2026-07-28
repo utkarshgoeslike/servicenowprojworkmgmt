@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">8053c52a4796c310bbccfe02d16d431f</canvas>
+        <component display_value="List">7ff373544303121093711347efb8f23c</component>
+        <component_props>{"dataSources":[{"allowRealTime":true,"dataCategories":["trend","group","simple"],"filterQuery":"","id":"1c53c52a4796c310bbccfe02d16d43c9","isDatabaseView":false,"preferredVisualizations":[],"sourceType":"table","tableOrViewName":"x_2182741_work_m_0_project"}],"additionalGroupByConfig":[],"allowAdditionalGroupByPerMetric":false,"componentId":"","contextMenuActions":[],"description":"","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","headingLevel":2,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showAdditionalGroupBySelector":false,"showFilterIcon":true,"showHeaderSeparator":false,"showHeader":true,"showLoadingIndicator":false,"wrapTitle":false,"parFilter":"","parFilterConfig":[],"allowListPagination":true,"columnLimit":0,"limit":10,"maxCharLimit":4000,"columnPreferenceKey":"","bareBorder":false,"wrapCellContent":"useLineBreaksUserPref","showPersonalization":false,"hideDotwalk":false,"showColumnReorder":false,"showColumnGrouping":false,"showColumnResizing":false,"showColumnFiltering":false,"showColumnSorting":true,"followFilters":true,"groupByField":"","showLinks":true,"showViewAll":true,"showInlineEditing":false,"table":"x_2182741_work_m_0_project","headerTitle":"My Work","columns":"","showRecordCount":true}</component_props>
+        <h>18</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-28 08:52:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8453c52a4796c310bbccfe02d16d432d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope>
+        <sys_update_name>par_dashboard_widget_8453c52a4796c310bbccfe02d16d432d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-07-28 08:52:29</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>12</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</application>
+        <file_path/>
+        <instance_id>726dc86e2b4be2583ce2fcd2ce91bf1d</instance_id>
+        <instance_name>dev351502</instance_name>
+        <name>par_dashboard_widget_8453c52a4796c310bbccfe02d16d432d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">8053c52a4796c310bbccfe02d16d431f</canvas><component display_value="List">7ff373544303121093711347efb8f23c</component><component_props>{"dataSources":[{"allowRealTime":true,"dataCategories":["trend","group","simple"],"filterQuery":"","id":"1c53c52a4796c310bbccfe02d16d43c9","isDatabaseView":false,"preferredVisualizations":[],"sourceType":"table","tableOrViewName":"x_2182741_work_m_0_project"}],"additionalGroupByConfig":[],"allowAdditionalGroupByPerMetric":false,"componentId":"","contextMenuActions":[],"description":"","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","headingLevel":2,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showAdditionalGroupBySelector":false,"showFilterIcon":true,"showHeaderSeparator":false,"showHeader":true,"showLoadingIndicator":false,"wrapTitle":false,"parFilter":"","parFilterConfig":[],"allowListPagination":true,"columnLimit":0,"limit":10,"maxCharLimit":4000,"columnPreferenceKey":"","bareBorder":false,"wrapCellContent":"useLineBreaksUserPref","showPersonalization":false,"hideDotwalk":false,"showColumnReorder":false,"showColumnGrouping":false,"showColumnResizing":false,"showColumnFiltering":false,"showColumnSorting":true,"followFilters":true,"groupByField":"","showLinks":true,"showViewAll":true,"showInlineEditing":false,"table":"x_2182741_work_m_0_project","headerTitle":"My Work","columns":"","showRecordCount":true}</component_props><h>18</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-28 08:52:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8453c52a4796c310bbccfe02d16d432d</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package><sys_policy/><sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope><sys_update_name>par_dashboard_widget_8453c52a4796c310bbccfe02d16d432d</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-07-28 08:52:29</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>12</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-560386426</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>66493c9647164310bbccfe02d16d4368</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2026-07-28 08:52:29</sys_created_on>
+        <sys_id>9453c52a4796c310bbccfe02d16d43d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fa7ecec050000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-07-28 08:52:29</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>5453c52a5196c3102de7cee94ccab3d2</update_guid>
+        <update_guid_history>5453c52a5196c3102de7cee94ccab3d2:-560386426,c853c52aa296c310b641c190a192c72f:509515896</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">a853092a4796c310bbccfe02d16d435a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2026-07-28 08:52:30</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>5405786357354fcea7089bc08adfaf84</sys_id>
+        <sys_metadata>8453c52a4796c310bbccfe02d16d432d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope>
+        <sys_scope_delete display_value="">1e4c0bce386445e1b42ba8d072ab8719</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_8453c52a4796c310bbccfe02d16d432d</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_8453c52a4796c310bbccfe02d16d432d">9453c52a4796c310bbccfe02d16d43d3</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-07-28 08:52:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

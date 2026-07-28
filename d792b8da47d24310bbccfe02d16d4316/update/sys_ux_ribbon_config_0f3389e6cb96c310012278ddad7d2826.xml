@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Work Management Ribbon Config</description>
+        <name>Work Management Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-28 08:52:09</sys_created_on>
+        <sys_id>0f3389e6cb96c310012278ddad7d2826</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work Management Ribbon Config</sys_name>
+        <sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_0f3389e6cb96c310012278ddad7d2826</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-28 08:52:09</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>

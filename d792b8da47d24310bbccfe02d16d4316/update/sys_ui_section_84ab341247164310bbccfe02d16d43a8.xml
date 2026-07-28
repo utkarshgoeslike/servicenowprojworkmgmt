@@ -4,13 +4,83 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-07-27 13:40:24</sys_created_on>
-            <sys_id>40ab709e47164310bbccfe02d16d4374</sys_id>
+            <sys_created_on>2026-07-28 09:15:40</sys_created_on>
+            <sys_id>3b98c52647d6c310bbccfe02d16d43d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2182741_work_m_0_project" sys_domain="global" view="Default view">84ab341247164310bbccfe02d16d43a8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-07-27 13:40:24</sys_updated_on>
+            <sys_updated_on>2026-07-28 09:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-28 09:15:40</sys_created_on>
+            <sys_id>b798c52647d6c310bbccfe02d16d43d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2182741_work_m_0_project" sys_domain="global" view="Default view">84ab341247164310bbccfe02d16d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-28 09:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owner</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-28 09:15:40</sys_created_on>
+            <sys_id>3798c52647d6c310bbccfe02d16d43da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2182741_work_m_0_project" sys_domain="global" view="Default view">84ab341247164310bbccfe02d16d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-28 09:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-28 09:15:40</sys_created_on>
+            <sys_id>b398c52647d6c310bbccfe02d16d43db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2182741_work_m_0_project" sys_domain="global" view="Default view">84ab341247164310bbccfe02d16d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-28 09:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-28 09:15:40</sys_created_on>
+            <sys_id>3398c52647d6c310bbccfe02d16d43dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2182741_work_m_0_project" sys_domain="global" view="Default view">84ab341247164310bbccfe02d16d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-28 09:15:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-28 09:15:40</sys_created_on>
+            <sys_id>bf98c52647d6c310bbccfe02d16d43dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2182741_work_m_0_project" sys_domain="global" view="Default view">84ab341247164310bbccfe02d16d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-28 09:15:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

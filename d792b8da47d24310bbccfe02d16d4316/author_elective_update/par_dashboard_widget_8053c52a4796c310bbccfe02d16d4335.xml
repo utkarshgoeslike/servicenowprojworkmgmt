@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">8053c52a4796c310bbccfe02d16d431f</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-28 08:52:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8053c52a4796c310bbccfe02d16d4335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope>
+        <sys_update_name>par_dashboard_widget_8053c52a4796c310bbccfe02d16d4335</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-28 08:52:28</sys_updated_on>
+        <visualization/>
+        <w>47</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</application>
+        <file_path/>
+        <instance_id>726dc86e2b4be2583ce2fcd2ce91bf1d</instance_id>
+        <instance_name>dev351502</instance_name>
+        <name>par_dashboard_widget_8053c52a4796c310bbccfe02d16d4335</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">8053c52a4796c310bbccfe02d16d431f</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>3</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-28 08:52:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8053c52a4796c310bbccfe02d16d4335</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package><sys_policy/><sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope><sys_update_name>par_dashboard_widget_8053c52a4796c310bbccfe02d16d4335</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-28 08:52:28</sys_updated_on><visualization/><w>47</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-2030851124</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>66493c9647164310bbccfe02d16d4368</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-28 08:52:28</sys_created_on>
+        <sys_id>0853c52a4796c310bbccfe02d16d4338</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fa7ece7490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-28 08:52:28</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>c453c52a1f96c310ab659f0c84eaff37</update_guid>
+        <update_guid_history>c453c52a1f96c310ab659f0c84eaff37:-2030851124</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6453092a4796c310bbccfe02d16d4336</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-28 08:52:30</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>18838d2ee1d0497c846b1bd1e7002144</sys_id>
+        <sys_metadata>8053c52a4796c310bbccfe02d16d4335</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope>
+        <sys_scope_delete display_value="">1e4c0bce386445e1b42ba8d072ab8719</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_8053c52a4796c310bbccfe02d16d4335</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_8053c52a4796c310bbccfe02d16d4335">0853c52a4796c310bbccfe02d16d4338</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-28 08:52:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

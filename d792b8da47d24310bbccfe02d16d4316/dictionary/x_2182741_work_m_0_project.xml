@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="5f9b309e47164310bbccfe02d16d43a0" label="Project" max_length="40" name="x_2182741_work_m_0_project" type="collection">
+    <element db_object_id="5f9b309e47164310bbccfe02d16d43a0" label="Project" max_length="40" name="x_2182741_work_m_0_project" text_index="true" type="collection">
         <element label="Owner" max_length="32" name="owner" reference="sys_user" type="reference"/>
         <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
         <element label="End Date" max_length="40" name="end_date" type="glide_date"/>

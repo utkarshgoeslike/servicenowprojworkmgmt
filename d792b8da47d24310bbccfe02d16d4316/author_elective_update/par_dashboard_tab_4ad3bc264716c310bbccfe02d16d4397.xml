@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="DELETE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="Work Management Overview">cad3bca24716c310bbccfe02d16d43ef</dashboard>
+        <name>New Tab 3</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-28 07:44:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4ad3bc264716c310bbccfe02d16d4397</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope>
+        <sys_update_name>par_dashboard_tab_4ad3bc264716c310bbccfe02d16d4397</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-28 07:44:53</sys_updated_on>
+    </par_dashboard_tab>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</application>
+        <file_path/>
+        <instance_id>726dc86e2b4be2583ce2fcd2ce91bf1d</instance_id>
+        <instance_name>dev351502</instance_name>
+        <name>par_dashboard_tab_4ad3bc264716c310bbccfe02d16d4397</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="Work Management Overview">cad3bca24716c310bbccfe02d16d43ef</dashboard><name>New Tab 3</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-28 07:44:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4ad3bc264716c310bbccfe02d16d4397</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 3</sys_name><sys_overrides/><sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package><sys_policy/><sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope><sys_update_name>par_dashboard_tab_4ad3bc264716c310bbccfe02d16d4397</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-28 07:44:53</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+        <payload_hash>-946699856</payload_hash>
+        <record_name>New Tab 3</record_name>
+        <reverted_from/>
+        <source>66493c9647164310bbccfe02d16d4368</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-28 07:44:53</sys_created_on>
+        <sys_id>46d3bc264716c310bbccfe02d16d439c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fa7af07b20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-28 07:44:53</sys_updated_on>
+        <type>PAR Dashboard Tab</type>
+        <update_guid>c2d3bc26c516c310d993f77758847b9b</update_guid>
+        <update_guid_history>c2d3bc26c516c310d993f77758847b9b:-946699856</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New Tab 3">b2c4f0e64716c310bbccfe02d16d432a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-28 07:49:02</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_tab">par_dashboard_tab</sys_db_object>
+        <sys_id>39207bf401224002bb92a09d9a5a9a64</sys_id>
+        <sys_metadata>4ad3bc264716c310bbccfe02d16d4397</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 3</sys_name>
+        <sys_package display_value="Work Management" source="x_2182741_work_m_0">d792b8da47d24310bbccfe02d16d4316</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work Management">d792b8da47d24310bbccfe02d16d4316</sys_scope>
+        <sys_scope_delete display_value="">1e4c0bce386445e1b42ba8d072ab8719</sys_scope_delete>
+        <sys_update_name>par_dashboard_tab_4ad3bc264716c310bbccfe02d16d4397</sys_update_name>
+        <sys_update_version display_value="par_dashboard_tab_4ad3bc264716c310bbccfe02d16d4397">46d3bc264716c310bbccfe02d16d439c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-28 07:49:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
